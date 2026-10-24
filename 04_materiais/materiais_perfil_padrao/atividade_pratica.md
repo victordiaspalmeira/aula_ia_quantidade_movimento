@@ -1,22 +1,19 @@
-# Atividade Prática — Perfil Padrão
+# Comparação Guiada — Perfil Padrão
 **Tema:** Quantidade de Movimento
 
 ## Objetivo
 Comparar a quantidade de movimento em situações controladas e distinguir essa grandeza da força ou da distância de frenagem.
 
-## Material
-- Cartões ou papel para registrar os casos abaixo
-- Calculadora opcional
+## Tempo
+Cerca de 7 minutos, igual ao tempo de referência da versão TDAH.
 
-## Procedimento
-1. Em dupla, calculem \(p=m\cdot v\) para cada caso e anotem a unidade:
+## Casos e etapas
+1. **3 min:** em dupla, calculem \(p=m\cdot v\) para cada caso e anotem a unidade:
    - Caso A: carrinho de 2 kg a 3 m/s.
    - Caso B: carrinho de 4 kg a 3 m/s.
    - Caso C: carrinho de 2 kg a 6 m/s.
-2. Comparem A com B. A velocidade é a mesma; a massa muda.
-3. Comparem A com C. A massa é a mesma; a velocidade muda.
-4. Para cada caso, determinem a variação de quantidade de movimento necessária para levar o carrinho ao repouso.
-5. Discutam: se o tempo de parada fosse igual, o que a comparação sugere sobre o impulso necessário? O que ainda seria preciso saber para comparar a força ou a distância de frenagem?
+2. **2 min:** comparem A com B e A com C. Identifiquem qual grandeza muda em cada comparação.
+3. **2 min:** discutam o que muda em \(\vec{p}\) quando o carrinho para e por que \(p\) não determina, sozinho, a força ou a distância de frenagem.
 
 ## Gabarito orientador
 - A: \(p=6\,kg·m/s\); B: \(p=12\,kg·m/s\); C: \(p=12\,kg·m/s\).
