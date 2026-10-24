@@ -11,7 +11,7 @@
 ### Slide 1 — Capa
 - Título: Quantidade de Movimento
 - Subtítulo: 1º ano do Ensino Médio
-- Nome do professor
+- Nome do professor: Victor Palmeira
 - Indicação: “Elaborado com apoio de IA • Revisado pelo professor”
 
 ### Slide 2 — O que vamos aprender hoje?
@@ -74,6 +74,7 @@
 - Halliday, D.; Resnick, R.; Walker, *Fundamentos de Física*, volume de Mecânica (edição, editora, ano e capítulo a confirmar pelo professor).
 - Autoria: Victor Palmeira
 - Nota: material elaborado com apoio de IA; revisão e validação pedagógica final sob responsabilidade do professor
+- Conformidade com a LGPD: uso de personas didáticas sem dados reais de estudantes
 
 ---
 

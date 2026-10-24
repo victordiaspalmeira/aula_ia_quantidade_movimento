@@ -11,15 +11,16 @@ Planejar uma aula interativa sobre **Quantidade de Movimento** para estudantes d
 - Criar, com o Microsoft Copilot no PowerPoint, uma apresentação visualmente clara e envolvente, com slides que sintetizem os conceitos de Quantidade de Movimento.
 - Adaptar e traduzir um pequeno trecho do material, usando recursos de revisão e tradução com IA, para acolher estudantes cuja língua materna seja diferente do português.
 - Usar o ChatGPT para produzir dois conjuntos distintos de materiais didáticos: um destinado ao estudante sem necessidade de adaptação específica e outro adaptado para o estudante com TDAH, considerando recursos que possam favorecer foco, participação e aprendizagem.
+- Observar rigorosamente princípios de ética, autoria docente e proteção de dados (LGPD — Lei nº 13.709/2018), assegurando o anonimato e a não inserção de dados pessoais ou clínicos de alunos em ferramentas de IA.
 
 ## Entregáveis do projeto
 
-1. **Plano de aula detalhado:** arquivo Word (`.docx`) ou PDF, com o nome `Plano_de_Aula_IA`. O documento pode destacar quais partes foram produzidas com apoio de IA, por exemplo, por meio de comentários ou marcações.
-2. **Apresentação da aula:** arquivo PowerPoint (`.pptx`) com o nome `Apresentacao_Aula_IA`, ou link para a apresentação online. Se estiver armazenada no OneDrive ou Google Drive, o link deve ser incluído no `README.md`.
-3. **Documento de reflexão:** arquivo Word (`.docx`), PDF ou texto diretamente no GitHub, com o nome `Reflexao_IA`. A reflexão também pode ser incluída como seção no `README.md`.
+1. **Plano de aula detalhado:** arquivo Word (`.docx`) ou PDF, com o nome `Plano_de_Aula_IA`. O documento destaca o papel de apoio da IA e reafirma a autoria do professor. (Disponível em Markdown e DOCX em `01_plano_de_aula/`).
+2. **Apresentação da aula:** arquivo PowerPoint (`.pptx`) com o nome `Apresentacao_Aula_IA`. (Disponível com 14 slides em `02_apresentacao/`).
+3. **Documento de reflexão:** arquivo Word (`.docx`), PDF ou texto diretamente no GitHub, com o nome `Reflexao_IA`. (Disponível em Markdown e DOCX em `03_reflexao/`).
 
-O `README.md` será elaborado por último, reunindo a apresentação do projeto, os entregáveis, as decisões tomadas ao longo do desenvolvimento e uma descrição do processo.
+O `README.md` reúne a apresentação do projeto, os entregáveis, as decisões tomadas ao longo do desenvolvimento e a descrição detalhada do processo.
 
 ## Contexto da proposta
 
-A IA será utilizada como apoio ao planejamento e à produção dos recursos, mas não substitui o trabalho docente. Mesmo com o uso dessas ferramentas, a autoria do plano de aula e dos materiais é do professor, que também é responsável por revisar e validar o conteúdo, considerando a adequação pedagógica, a clareza das explicações e as necessidades de cada estudante. Os materiais serão organizados em dois conjuntos distintos, um para cada perfil definido para a proposta.
+A IA é utilizada como apoio ao planejamento e à produção dos recursos, mas não substitui o trabalho docente. A autoria do plano de aula e dos materiais é do professor Victor Palmeira, que é responsável por revisar e validar o conteúdo científico e pedagógico. Os materiais são organizados em dois conjuntos distintos, mantendo o mesmo rigor e adaptando o acesso cognitivo às necessidades de cada estudante em conformidade com a LGPD.
