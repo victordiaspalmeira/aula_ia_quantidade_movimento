@@ -1,29 +1,48 @@
-# Comparação Guiada — Perfil TDAH
-**Tema:** Quantidade de Movimento
+# Comparação Guiada — Perfil TDAH (Reforço Individual)
+**Tema:** Quantidade de Movimento (Momento Linear)  
+**Modalidade:** Reforço escolar individual (1 a 1) online via Google Meet e OneNote  
 
 ## Objetivo
-Comparar a quantidade de movimento em situações curtas e organizadas.
+Analisar visualmente a quantidade de movimento em 3 casos simples, utilizando cores e anotações diretas na lousa digital do OneNote com mesa digitalizadora.
 
-## Tempo
-Cerca de 7 minutos, igual ao tempo de referência da versão padrão.
+## Duração Sugerida
+Cerca de 7 minutos, com cronômetro visível compartilhado na chamada do Google Meet.
 
-## Material
-- Papel ou caderno
-- Calculadora opcional
+## Estrutura da Atividade no OneNote
 
-## Passos
-1. **3 min:** calcule \(p=m\cdot v\) nos três casos:
-   - A: 2 kg a 3 m/s.
-   - B: 4 kg a 3 m/s.
-   - C: 2 kg a 6 m/s.
-2. **2 min:** compare A com B e A com C. Identifique o que mudou.
-3. **2 min:** imagine os carrinhos parando. Em que sentido muda \(\vec{p}\)? \(p\) é uma força ou informa sozinho a distância de parada?
+### Passo 1 (3 min) — Cálculo Direto na Lousa
+Com o apoio visual da mesa digitalizadora do professor, preencha os valores na tela:
 
-## Respostas de referência
-- A: \(6\,kg·m/s\); B: \(12\,kg·m/s\); C: \(12\,kg·m/s\).
-- Em cada comparação, mantendo uma grandeza constante e aumentando a outra, o módulo de \(p\) aumenta.
-- Ao parar, a variação de \(\vec{p}\) tem sentido oposto ao movimento.
-- \(p\) não é força e não determina sozinho a distância de parada; são necessárias outras informações sobre a frenagem.
+- **Caso A (Verde):**  
+  Massa = \(2\,\text{kg}\) &nbsp;|&nbsp; Velocidade = \(3\,\text{m/s}\)  
+  👉 \(p_A = 2 \times 3 = \) **\_\_\_\_ kg·m/s**
 
-## Formas de responder
-Registre por escrito, desenhe setas para representar os sentidos ou explique suas conclusões oralmente.
+- **Caso B (Azul):**  
+  Massa = \(4\,\text{kg}\) &nbsp;|&nbsp; Velocidade = \(3\,\text{m/s}\)  
+  👉 \(p_B = 4 \times 3 = \) **\_\_\_\_ kg·m/s**
+
+- **Caso C (Laranja):**  
+  Massa = \(2\,\text{kg}\) &nbsp;|&nbsp; Velocidade = \(6\,\text{m/s}\)  
+  👉 \(p_C = 2 \times 6 = \) **\_\_\_\_ kg·m/s**
+
+---
+
+### Passo 2 (2 min) — O que Mudou? (Pergunta Rápida)
+Olhando os resultados na tela com o professor:
+1. De **A para B**: a massa dobrou e a velocidade ficou igual. O que aconteceu com o resultado?  
+   *(Dobrou / Ficou igual)*
+2. De **A para C**: a velocidade dobrou e a massa ficou igual. O que aconteceu com o resultado?  
+   *(Dobrou / Ficou igual)*
+3. **B e C deram o mesmo valor final (\(12\,\text{kg·m/s}\))!**
+
+---
+
+### Passo 3 (2 min) — Tirando a Dúvida sobre Frenagem
+O professor desenha setas de freio nos carrinhos no OneNote:
+- *Pergunta ao aluno:* "Como B e C têm o mesmo valor de \(p\), será que eles obrigatoriamente gastam o mesmo espaço de pista para parar?"
+- *Resposta guiada:* **Não!** Quantidade de movimento não é força nem distância. Parar depende da força dos freios e do atrito do pneu com a pista.
+
+---
+
+## Formas de Participação
+O estudante pode escrever diretamente no OneNote compartilhado, ditar as respostas para o professor anotar com a mesa digitalizadora ou responder verbalmente.

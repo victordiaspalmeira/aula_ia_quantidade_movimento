@@ -5,10 +5,14 @@ venv/
 __pycache__/
 *.pyc
 
-# Arquivos temporários do Microsoft Office (Word, PowerPoint, Excel)
+# Arquivos temporários e de trava do Microsoft Office e LibreOffice
 ~$*.docx
 ~$*.pptx
 ~$*.xlsx
+.~lock.*#
+
+# Arquivos temporários de atualização
+*_atualizado.docx
 
 # Sistema operacional
 .DS_Store
