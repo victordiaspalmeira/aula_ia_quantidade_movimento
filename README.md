@@ -35,7 +35,7 @@ Ao final da sessão individual, o estudante será capaz de:
 | Item da Especificação | Arquivo no Repositório | Descrição / Formato |
 |---|---|---|
 | **1. Plano de Aula Oficial (MD)** | [Plano_de_Aula_IA.md](./01_plano_de_aula/Plano_de_Aula_IA.md) | Versão estruturada em Markdown com cronometragem minuto a minuto, dinâmica 1 a 1 e transparência de IA |
-| **1. Plano de Aula Oficial (DOCX)** | [Plano_de_Aula_IA.docx](./01_plano_de_aula/Plano_de_Aula_IA.docx) | Documento Word formatado e alinhado integralmente ao plano oficial |
+| **1. Plano de Aula Oficial (DOCX/ODT)** | [Plano_de_Aula_IA.docx](./01_plano_de_aula/Plano_de_Aula_IA.docx) / [Plano_de_Aula_IA.odt](./01_plano_de_aula/Plano_de_Aula_IA.odt) | Documento formatado em Word (.docx) e LibreOffice (.odt) |
 | **2. Apresentação em Slides** | [Apresentacao_Aula_IA.pptx](./02_apresentacao/Apresentacao_Aula_IA.pptx) | Apresentação com 14 slides visualmente limpos para compartilhamento no Google Meet |
 | **Roteiro da Apresentação** | [Roteiro_Apresentacao_Aula_IA.md](./02_apresentacao/Roteiro_Apresentacao_Aula_IA.md) | Guia slide a slide integrado ao uso do OneNote e mesa digitalizadora |
 | **Instruções PowerPoint** | [Instrucoes_PowerPoint.md](./02_apresentacao/Instrucoes_PowerPoint.md) | Orientações de layout, tipografia e boas práticas visuais |
@@ -55,7 +55,8 @@ Ao final da sessão individual, o estudante será capaz de:
 aula_ia_quantidade_movimento/
 ├── 01_plano_de_aula/
 │   ├── Plano_de_Aula_IA.docx
-│   └── Plano_de_Aula_IA.md
+│   ├── Plano_de_Aula_IA.md
+│   └── Plano_de_Aula_IA.odt
 ├── 02_apresentacao/
 │   ├── Apresentacao_Aula_IA.pptx
 │   ├── Instrucoes_PowerPoint.md
