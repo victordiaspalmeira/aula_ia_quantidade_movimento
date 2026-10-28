@@ -17,7 +17,7 @@ Planejar uma sessão de **reforço escolar particular individual (atendimento 1 
 
 ## Entregáveis do projeto
 
-1. **Plano de aula detalhado:** arquivo Word (`.docx`) e Markdown (`.md`), com o nome `Plano_de_Aula_IA`, destacando o formato de reforço individual, a tecnologia utilizada (Meet/OneNote/Mesa), a transparência de IA e a conformidade com a LGPD.
+1. **Plano de aula detalhado:** arquivo Word (`.docx`), LibreOffice (`.odt`) e Markdown (`.md`), com o nome `Plano_de_Aula_IA`, destacando o formato de reforço individual, a tecnologia utilizada (Meet/OneNote/Mesa), a transparência de IA e a conformidade com a LGPD.
 2. **Apresentação da aula:** arquivo PowerPoint (`.pptx`) com o nome `Apresentacao_Aula_IA`, estruturado para compartilhamento no Google Meet.
 3. **Documento de reflexão:** arquivo Word (`.docx`) e Markdown (`.md`), com o nome `Reflexao_IA`, analisando a prática pedagógica, as limitações da IA, o uso do OneNote e as decisões éticas.
 

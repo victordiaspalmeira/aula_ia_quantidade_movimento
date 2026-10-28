@@ -35,17 +35,18 @@ Ao final da sessão individual, o estudante será capaz de:
 | Item da Especificação | Arquivo no Repositório | Descrição / Formato |
 |---|---|---|
 | **1. Plano de Aula Oficial (MD)** | [Plano_de_Aula_IA.md](./01_plano_de_aula/Plano_de_Aula_IA.md) | Versão estruturada em Markdown com cronometragem minuto a minuto, dinâmica 1 a 1 e transparência de IA |
-| **1. Plano de Aula Oficial (DOCX/ODT)** | [Plano_de_Aula_IA.docx](./01_plano_de_aula/Plano_de_Aula_IA.docx) / [Plano_de_Aula_IA.odt](./01_plano_de_aula/Plano_de_Aula_IA.odt) | Documento formatado em Word (.docx) e LibreOffice (.odt) |
-| **2. Apresentação em Slides** | [Apresentacao_Aula_IA.pptx](./02_apresentacao/Apresentacao_Aula_IA.pptx) | Apresentação com 14 slides visualmente limpos para compartilhamento no Google Meet |
-| **Roteiro da Apresentação** | [Roteiro_Apresentacao_Aula_IA.md](./02_apresentacao/Roteiro_Apresentacao_Aula_IA.md) | Guia slide a slide integrado ao uso do OneNote e mesa digitalizadora |
-| **Instruções PowerPoint** | [Instrucoes_PowerPoint.md](./02_apresentacao/Instrucoes_PowerPoint.md) | Orientações de layout, tipografia e boas práticas visuais |
-| **3. Documento de Reflexão (MD)** | [Reflexao_IA.md](./03_reflexao/Reflexao_IA.md) | Reflexão crítica no GitHub sobre ferramentas (Meet/OneNote/Mesa), limitações, ética e LGPD |
-| **3. Documento de Reflexão (DOCX)** | [Reflexao_IA.docx](./03_reflexao/Reflexao_IA.docx) | Versão em documento Word (.docx) formatada |
-| **Materiais — Perfil Padrão** | [Pasta Perfil Padrão](./04_materiais/materiais_perfil_padrao/) | Texto expositivo, análise dos Casos A, B e C no OneNote (7 min) e 5 exercícios com gabarito |
-| **Materiais — Perfil TDAH** | [Pasta Perfil TDAH](./04_materiais/materiais_perfil_tdah/) | Mesmos objetivos e exercícios, com andaimes visuais, etapas e respostas flexíveis |
-| **Internacionalização** | [trecho_traduzido.md](./06_outros/trecho_traduzido.md) | Trecho em português e inglês com nota pedagógica para aulas bilíngues ou acolhimento |
-| **Cadeia de Prompts (Pasta)** | [Pasta de Prompts](./05_prompts/) | Prompts individuais 01 a 04 completos e comentados |
-| **Cadeia de Prompts (Guia Único)** | [prompts.md](./prompts.md) | Fluxo sequencial dos comandos utilizados para reproduzir o processo |
+| **2. Plano de Aula Oficial (DOCX)** | [Plano_de_Aula_IA.docx](./01_plano_de_aula/Plano_de_Aula_IA.docx) | Documento formatado em Word (.docx) |
+| **3. Plano de Aula Oficial (ODT)** | [Plano_de_Aula_IA.odt](./01_plano_de_aula/Plano_de_Aula_IA.odt) | Documento formatado em LibreOffice (.odt) |
+| **4. Apresentação em Slides (PPTX)** | [Apresentacao_Aula_IA.pptx](./02_apresentacao/Apresentacao_Aula_IA.pptx) | Apresentação com 14 slides visualmente limpos para compartilhamento no Google Meet |
+| **5. Roteiro da Apresentação** | [Roteiro_Apresentacao_Aula_IA.md](./02_apresentacao/Roteiro_Apresentacao_Aula_IA.md) | Guia slide a slide integrado ao uso do OneNote e mesa digitalizadora |
+| **6. Instruções PowerPoint** | [Instrucoes_PowerPoint.md](./02_apresentacao/Instrucoes_PowerPoint.md) | Orientações de layout, tipografia e boas práticas visuais |
+| **7. Documento de Reflexão (MD)** | [Reflexao_IA.md](./03_reflexao/Reflexao_IA.md) | Reflexão crítica sobre ferramentas (Meet/OneNote/Mesa), limitações, ética e LGPD |
+| **8. Documento de Reflexão (DOCX)** | [Reflexao_IA.docx](./03_reflexao/Reflexao_IA.docx) | Versão formatada em Word (.docx) da reflexão crítica |
+| **9. Materiais Didáticos — Perfil Padrão** | [Pasta Perfil Padrão](./04_materiais/materiais_perfil_padrao/) | Texto explicativo, atividade prática (Casos A, B e C) e lista de 5 exercícios com gabarito |
+| **10. Materiais Didáticos — Perfil TDAH** | [Pasta Perfil TDAH](./04_materiais/materiais_perfil_tdah/) | Mesmos objetivos e exercícios, com andaimes visuais, etapas sequenciais e respostas flexíveis |
+| **11. Internacionalização** | [trecho_traduzido.md](./06_outros/trecho_traduzido.md) | Trecho em português e inglês com nota pedagógica para aulas bilíngues ou acolhimento |
+| **12. Cadeia de Prompts (Pasta)** | [Pasta de Prompts](./05_prompts/) | Prompts individuais 01 a 04 completos e comentados |
+| **13. Cadeia de Prompts (Guia Único)** | [prompts.md](./prompts.md) | Fluxo sequencial dos comandos utilizados para reproduzir o processo |
 
 ---
 

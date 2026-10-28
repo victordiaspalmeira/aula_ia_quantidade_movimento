@@ -9,4 +9,4 @@
 5. Salve o arquivo final como:
    `Apresentacao_Aula_IA.pptx`
 6. Coloque o arquivo dentro da pasta `02_apresentacao/`.
-7. (Opcional) Se a apresentação estiver no OneDrive ou Google Drive, salve o link no arquivo `02_apresentacao/link_da_apresentacao.txt`.
+7. (Opcional) Se a apresentação estiver hospedada no OneDrive ou Google Drive, registre o link de compartilhamento neste mesmo documento ou no README do repositório, para fácil acesso na sessão do Google Meet.
