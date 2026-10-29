@@ -78,5 +78,5 @@ c) Um estudante comentou: *“Como o veículo com maior quantidade de movimento 
 
 ## Fonte Consultada
 
-- HELERBROCK, Rafael. [Quantidade de movimento: conceito, fórmula, impulso](https://mundoeducacao.uol.com.br/fisica/quantidade-movimento.htm). *Mundo Educação*, atualizado em 12 jun. 2020. Acesso em: 23 out. 2026.  
+- HELERBROCK, Rafael. [Quantidade de movimento: conceito, fórmula, impulso](https://mundoeducacao.uol.com.br/fisica/quantidade-movimento.htm). *Mundo Educação*, atualizado em 12 jun. 2020. Acesso em: 28 out. 2026.  
 *Nota:* As questões desta folha são autorais e foram elaboradas para este projeto pedagógico com base nos conceitos da referência citada, garantindo rigor físico e alinhamento curricular com a BNCC.

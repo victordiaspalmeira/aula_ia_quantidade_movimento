@@ -121,5 +121,5 @@
 
 ## Fonte Consultada
 
-- HELERBROCK, Rafael. [Quantidade de movimento: conceito, fórmula, impulso](https://mundoeducacao.uol.com.br/fisica/quantidade-movimento.htm). *Mundo Educação*, atualizado em 12 jun. 2020. Acesso em: 23 out. 2026.  
+- HELERBROCK, Rafael. [Quantidade de movimento: conceito, fórmula, impulso](https://mundoeducacao.uol.com.br/fisica/quantidade-movimento.htm). *Mundo Educação*, atualizado em 12 jun. 2020. Acesso em: 28 out. 2026.  
 *Nota:* As questões desta folha são autorais e adaptadas com andaimes visuais e etapas sequenciais para estudantes com TDAH, preservando rigor e objetivos da BNCC.
