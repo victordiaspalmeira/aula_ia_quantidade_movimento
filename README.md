@@ -37,8 +37,10 @@ Ao final da sessão individual, o estudante será capaz de:
 | **1. Plano de Aula Oficial (MD)** | [Plano_de_Aula_IA.md](./01_plano_de_aula/Plano_de_Aula_IA.md) | Versão estruturada em Markdown com cronometragem minuto a minuto, dinâmica 1 a 1 e transparência de IA |
 | **2. Plano de Aula Oficial (DOCX)** | [Plano_de_Aula_IA.docx](./01_plano_de_aula/Plano_de_Aula_IA.docx) | Documento formatado em Word (.docx) |
 | **3. Plano de Aula Oficial (ODT)** | [Plano_de_Aula_IA.odt](./01_plano_de_aula/Plano_de_Aula_IA.odt) | Documento formatado em LibreOffice (.odt) |
-| **4. Apresentação em Slides (PPTX)** | [Apresentacao_Aula_IA.pptx](./02_apresentacao/Apresentacao_Aula_IA.pptx) | Apresentação com 14 slides visualmente limpos para compartilhamento no Google Meet |
-| **5. Roteiro da Apresentação** | [Roteiro_Apresentacao_Aula_IA.md](./02_apresentacao/Roteiro_Apresentacao_Aula_IA.md) | Guia slide a slide integrado ao uso do OneNote e mesa digitalizadora |
+| **4. Apresentação em Slides — Perfil Padrão (PPTX)** | [Apresentacao_Aula_IA_Padrao.pptx](./02_apresentacao/Apresentacao_Aula_IA_Padrao.pptx) | Apresentação com 14 slides focada no perfil padrão (autonomia, questões objetivas, cálculo e discursiva) |
+| **5. Apresentação em Slides — Perfil TDAH (PPTX)** | [Apresentacao_Aula_IA_TDAH.pptx](./02_apresentacao/Apresentacao_Aula_IA_TDAH.pptx) | Apresentação com 14 slides focada no perfil TDAH (andaimes, instruções curtas, etapas bem definidas, cronômetro por etapa) |
+| **6. Apresentação em Slides — Original (PPTX)** | [Apresentacao_Aula_IA.pptx](./02_apresentacao/Apresentacao_Aula_IA.pptx) | Apresentação original com ambos os perfis no slide de exercícios (mantida como referência) |
+| **7. Roteiro da Apresentação** | [Roteiro_Apresentacao_Aula_IA.md](./02_apresentacao/Roteiro_Apresentacao_Aula_IA.md) | Guia slide a slide integrado ao uso do OneNote e mesa digitalizadora |
 | **6. Instruções PowerPoint** | [Instrucoes_PowerPoint.md](./02_apresentacao/Instrucoes_PowerPoint.md) | Orientações de layout, tipografia e boas práticas visuais |
 | **7. Documento de Reflexão (MD)** | [Reflexao_IA.md](./03_reflexao/Reflexao_IA.md) | Reflexão crítica sobre ferramentas (Meet/OneNote/Mesa), limitações, ética e LGPD |
 | **8. Documento de Reflexão (DOCX)** | [Reflexao_IA.docx](./03_reflexao/Reflexao_IA.docx) | Versão formatada em Word (.docx) da reflexão crítica |

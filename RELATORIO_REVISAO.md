@@ -17,6 +17,7 @@ O repositório está globalmente consistente e cumpre a maioria dos requisitos p
 | 2 | `objetivos.md` | Entrega 1 do plano de aula omitia o formato `.odt` | Baixa | ✅ Corrigido |
 | 3 | `02_apresentacao/Instrucoes_PowerPoint.md` | Referência a arquivo inexistente `link_da_apresentacao.txt` | Baixa | ✅ Corrigido |
 | 4 | `02_apresentacao/Apresentacao_Aula_IA.pptx` | Slides 7 e 8 usavam velocidade de 8 m/s / 16 m/s, divergindo do padrão 20 m/s usado em todos os outros materiais | Alta (erro físico) | ✅ Corrigido |
+| 5 | `02_apresentacao/` | Apresentação única com ambos os perfis no slide de exercícios; não havia versões separadas por perfil | Média | ✅ Criadas versões separadas |
 
 ---
 
@@ -71,6 +72,21 @@ O arquivo foi recompactado e validado (cabeçalho ZIP/OpenXML intacto).
 
 ---
 
+### 5. Criação de apresentações separadas por perfil (PPTX)
+
+**Problema:** O repositório possuía apenas um único arquivo `.pptx` contendo ambos os perfis (padrão e TDAH) no slide de exercícios. Para atendimento individual 1 a 1, é mais adequado ter apresentações separadas, evitando que o professor precise pular partes irrelevantes para o aluno daquela sessão.
+
+**Correção:** Criados dois novos arquivos baseados no `Apresentacao_Aula_IA.pptx` original, cada um com o slide 11 (Exercícios) adaptado ao seu perfil:
+
+- `Apresentacao_Aula_IA_Padrao.pptx`: Slide 11 foca no perfil padrão — 2 questões objetivas, 2 questões de cálculo, 1 questão discursiva.
+- `Apresentacao_Aula_IA_TDAH.pptx`: Slide 11 foca no perfil TDAH — mesmo conteúdo, mas com instruções mais curtas, etapas bem definidas e cronômetro por etapa.
+
+O arquivo original `Apresentacao_Aula_IA.pptx` foi mantido como referência.
+
+**Arquivos afetados:** `02_apresentacao/Apresentacao_Aula_IA_Padrao.pptx`, `02_apresentacao/Apresentacao_Aula_IA_TDAH.pptx` (binários, ambos validados com cabeçalho PK/OpenXML)
+
+---
+
 ## Itens validados (não requerem edição)
 
 A seguir, os requisitos que foram conferidos e estão em conformidade:
@@ -94,13 +110,13 @@ A seguir, os requisitos que foram conferidos e estão em conformidade:
 
 ## Arquivos não referenciados (arquivos órfãos)
 
-Os seguintes arquivos estão na raiz do repositório mas **não são referenciados** em nenhum documento (README, objetivos, prompts):
+Os seguintes arquivos estavam na raiz do repositório mas **não são referenciados** em nenhum documento (README, objetivos, prompts):
 
-- `asd.png` (568 KB)
-- `image_1.png` (358 KB)
-- `image_2.png` (482 KB)
+- `asd.png` (568 KB) — ✅ Removido
+- `image_1.png` (358 KB) — ✅ Removido
+- `image_2.png` (482 KB) — ✅ Removido
 
-São possíveis artefatos de testes de IA. Recomenda-se remover ou documentar sua finalidade.
+São possíveis artefatos de testes de IA. Todos foram removidos do repositório.
 
 ---
 
@@ -112,9 +128,8 @@ O repositório **não contém arquivos `.pdf`**, e os requisitos internos (READM
 
 ## Próximos passos sugeridos
 
-1. Remover ou documentar os arquivos órfãos (`asd.png`, `image_1.png`, `image_2.png`).
-2. Commitar as alterações corretivas na branch `main`.
-3. Manter o relatório como histórico de revisão.
+1. Fazer `git push` para publicar as alterações na branch `main` no GitHub.
+2. Manter o relatório como histórico de revisão.
 
 ---
 
